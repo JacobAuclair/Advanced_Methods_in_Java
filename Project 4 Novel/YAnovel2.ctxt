@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=title\ name\ numPages\ numChapters\ minAge
+comment0.target=YAnovel2(java.lang.String,\ java.lang.String,\ int,\ int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ YAnovel2\r\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment2.params=age
+comment2.target=void\ setMinAge(int)
+comment3.params=
+comment3.target=int\ getMinAge()
+numComments=4

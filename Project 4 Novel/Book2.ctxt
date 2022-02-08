@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=numPages
+comment0.target=Book2(int)
+comment1.params=numPages
+comment1.target=void\ setPages(int)
+comment2.params=
+comment2.target=int\ getPages()
+numComments=3

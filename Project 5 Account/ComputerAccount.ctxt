@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ getLogin()
+comment1.params=
+comment1.target=java.lang.String\ getPassword()
+comment2.params=LN
+comment2.target=void\ setLogin(java.lang.String)
+comment3.params=PN
+comment3.target=void\ setPassword(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
